@@ -1,18 +1,18 @@
 <h1 align="center">Hola, soy Alin Castillo 👋</h1>
-<h3 align="center">Estadístico · Magíster en Ciencia de los Datos · IA / Machine Learning / Deep Learning</h3>
+<h3 align="center">Estadístico · Egresado de la Maestría en Ciencia de Datos · IA / Machine Learning / Deep Learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning;Estad%C3%ADstica+aplicada+y+Ciencia+de+Datos;IA+Generativa%2C+RAG+y+MCP;Sistemas+y+desarrollo+web" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=acastillom24&color=blue&style=flat-square" alt="Visitas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=acastillom24.acastillom24" alt="Visitas" />
   <img src="https://img.shields.io/github/followers/acastillom24?style=flat-square" alt="Seguidores" />
 </p>
 
 ## 👨‍💻 Sobre mí
 
-- 📊 Estadístico (UNMSM) con maestría en **Ciencia de Datos** (Universidad Ricardo Palma).
+- 📊 Estadístico (UNMSM) egresado de la **Maestría en Ciencia de Datos** (Universidad Ricardo Palma).
 - 🤖 Trabajo en **IA**: machine learning, deep learning, visión computacional, NLP y RAG.
 - 🏢 **Entel Perú** — Team Member de Analítica Avanzada Aplicada B2C (antes Data Science Specialist).
 - 🌐 También desarrollo **páginas web y sistemas** de punta a punta.
@@ -30,7 +30,7 @@
 
 ## 🎓 Formación
 
-- **Maestría en Ciencia de Datos** — Universidad Ricardo Palma (2023–2024)
+- **Egresado de la Maestría en Ciencia de Datos** — Universidad Ricardo Palma (2023–2024)
 - **Bachiller en Estadística** — UNMSM (2015–2021)
 - Certificación *Domina Python: Nivel 2* (LinkedIn, 2025)
 
